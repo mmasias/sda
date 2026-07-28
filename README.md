@@ -6,7 +6,7 @@ Itinerario de 6 sesiones para introducir el uso de agentes de IA en terminal a p
 
 Cadencia semanal, 6 semanas. Instalación resuelta antes de la sesión 1 mediante guía enviada previamente, para dedicar el tiempo de contacto al primer uso, no al soporte técnico.
 
-1. Instalación y primer contacto (120 min)
+1. [Instalación y primer contacto](temario/01-instalacion/README.md) (120 min)
 2. Contexto persistente (90 min)
 3. Permisos y confianza gradual (90 min)
 4. Tareas multiarchivo (90 min)
