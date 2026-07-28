@@ -6,7 +6,7 @@ La terminal es percibida como superficie hostil por quien nunca la ha usado: pan
 
 El obstáculo real no es aprender comandos sino cambiar un modelo mental. Quien ha usado un asistente conversacional espera hacer una pregunta y recibir una respuesta de texto que copia y pega donde haga falta. Un agente no funciona así: se le describe una tarea completa y es él quien decide los pasos, lee y escribe archivos reales, y entrega un resultado verificable. Pasar de "pedir una respuesta" a "delegar una tarea" es el único aprendizaje que importa en esta sesión; instalación y sintaxis son soporte para llegar ahí, no el contenido en sí.
 
-Por eso la sesión empieza con una tarea real de quien participa (por ejemplo, reorganizar una copia de una carpeta de exámenes), no con un ejercicio de programación. Ver que el agente resuelve algo reconocible, algo que puede juzgarse sin conocimientos técnicos, es lo que neutraliza el miedo. Explicar el funcionamiento interno del agente en este punto sería prematuro: añadiría carga antes de que exista ninguna razón para quererla.
+Por eso la sesión empieza con una tarea real de quien participa (por ejemplo, reorganizar una copia de una carpeta de facturas), no con un ejercicio de programación. Ver que el agente resuelve algo reconocible, algo que puede juzgarse sin conocimientos técnicos, es lo que neutraliza el miedo. Explicar el funcionamiento interno del agente en este punto sería prematuro: añadiría carga antes de que exista ninguna razón para quererla.
 
 ## ¿Qué?
 
@@ -28,7 +28,7 @@ Un agente, en un sentido de trabajo, es un programa que entiende una tarea descr
 Desde esta primera sesión rigen dos reglas permanentes, no exclusivas de hoy:
 
 1. **Se trabaja siempre sobre una copia**, nunca sobre el archivo original, hasta que la sesión 5 (control de versiones) aporte un mecanismo real de deshacer. Delegar una tarea por primera vez no debe depender de arriesgar el único ejemplar de un archivo.
-2. **Antes de delegar cualquier tarea sobre un archivo, se comprueba si contiene datos personales de alumnos** (nombres, notas, cualquier dato identificable). Si los contiene, se trabaja sobre una versión anonimizada o con datos de prueba. Esta regla se establece aquí, no en el cierre del curso, porque la primera tarea de la sesión 1 ya puede tocar una carpeta de exámenes con datos reales.
+2. **Antes de delegar cualquier tarea sobre un archivo, se comprueba si contiene datos personales de terceros** (nombres, identificadores, cualquier dato que permita reconocer a una persona). Si los contiene, se trabaja sobre una versión anonimizada o con datos de prueba. Esta regla se establece aquí, no en el cierre del curso, porque la primera tarea de la sesión 1 ya puede tocar archivos con datos reales de terceros.
 
 ## ¿Para qué?
 
@@ -44,7 +44,7 @@ Herramienta: **Kiro CLI**. Entorno: **Windows 11**, shell **PowerShell** (dentro
 
 - Confirmar que el equipo corre **Windows 11**. Es un requisito de la herramienta, no una preferencia: en Windows 10 no hay instalación nativa soportada.
 - Tener a mano una cuenta de Google (la mayoría ya tiene una) o, si se prefiere no usarla, estar dispuesto a crear una AWS Builder ID durante la sesión: es gratuita, sin tarjeta de crédito, solo pide correo, nombre y contraseña.
-- Preparar sobre el escritorio una **copia** de la carpeta de examen que se va a usar en la práctica (copiar y pegar en el Explorador de archivos, renombrando la copia). El original no se toca en esta sesión.
+- Preparar sobre el escritorio una **copia** de la carpeta de facturas (o el archivo real que corresponda) que se va a usar en la práctica (copiar y pegar en el Explorador de archivos, renombrando la copia). El original no se toca en esta sesión.
 
 ### Instalación
 
@@ -67,7 +67,7 @@ Herramienta: **Kiro CLI**. Entorno: **Windows 11**, shell **PowerShell** (dentro
 1. En el Explorador de archivos, entrar en la carpeta **copia** preparada de antemano.
 2. Clic derecho sobre un espacio vacío de la carpeta y elegir **Abrir en Terminal**. Windows 11 abre Windows Terminal ya situado en esa carpeta: no hace falta moverse entre carpetas con comandos.
 3. Ejecutar `kiro-cli` para arrancar el agente.
-4. Describir la tarea en una frase, en lenguaje natural (por ejemplo: "organiza estos exámenes en subcarpetas por grupo, a partir del nombre de archivo").
+4. Describir la tarea en una frase, en lenguaje natural (por ejemplo: "organiza estas facturas en subcarpetas por mes, a partir del nombre de archivo").
 5. Revisar en el propio Explorador el resultado antes de darlo por bueno. Esta revisión, no la ejecución del comando, es el punto central de la sesión.
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
