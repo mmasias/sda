@@ -6,7 +6,7 @@ La terminal es percibida como superficie hostil por quien nunca la ha usado: pan
 
 El obstáculo real no es aprender comandos sino cambiar un modelo mental. Quien ha usado un asistente conversacional espera hacer una pregunta y recibir una respuesta de texto que copia y pega donde haga falta. Un agente no funciona así: se le describe una tarea completa y es él quien decide los pasos, lee y escribe archivos reales, y entrega un resultado verificable. Pasar de "pedir una respuesta" a "delegar una tarea" es el único aprendizaje que importa en esta sesión; instalación y sintaxis son soporte para llegar ahí, no el contenido en sí.
 
-Por eso la sesión empieza con una tarea real del propio docente (por ejemplo, reorganizar una copia de una carpeta de exámenes), no con un ejercicio de programación. Ver que el agente resuelve algo reconocible, algo que puede juzgarse sin conocimientos técnicos, es lo que neutraliza el miedo. Explicar el funcionamiento interno del agente en este punto sería prematuro: añadiría carga antes de que exista ninguna razón para quererla.
+Por eso la sesión empieza con una tarea real de quien participa (por ejemplo, reorganizar una copia de una carpeta de exámenes), no con un ejercicio de programación. Ver que el agente resuelve algo reconocible, algo que puede juzgarse sin conocimientos técnicos, es lo que neutraliza el miedo. Explicar el funcionamiento interno del agente en este punto sería prematuro: añadiría carga antes de que exista ninguna razón para quererla.
 
 ## ¿Qué?
 
@@ -32,9 +32,9 @@ Desde esta primera sesión rigen dos reglas permanentes, no exclusivas de hoy:
 
 ## ¿Para qué?
 
-Al cerrar la sesión, cada docente debe poder abrir la terminal sin percibirla como amenaza, describir en lenguaje natural una tarea real sobre sus propios archivos, y revisar lo que el agente hizo antes de darlo por bueno. No se espera que entiendan cómo funciona el agente por dentro ni que memoricen comandos. Se espera que hayan comprobado, sobre un caso propio, que delegar una tarea completa es distinto de usar un buscador o un chat, y que ese resultado es revisable y por tanto confiable bajo las condiciones correctas.
+Al cerrar la sesión, cada participante debe poder abrir la terminal sin percibirla como amenaza, describir en lenguaje natural una tarea real sobre sus propios archivos, y revisar lo que el agente hizo antes de darlo por bueno. No se espera que entiendan cómo funciona el agente por dentro ni que memoricen comandos. Se espera que hayan comprobado, sobre un caso propio, que delegar una tarea completa es distinto de usar un buscador o un chat, y que ese resultado es revisable y por tanto confiable bajo las condiciones correctas.
 
-La tarea elegida para la práctica debe ser lo bastante simple para completarse dentro de la sesión y lo bastante real para que el docente reconozca el valor inmediato. Eso es lo que le permite, después, delegar una tarea parecida sin depender de nadie.
+La tarea elegida para la práctica debe ser lo bastante simple para completarse dentro de la sesión y lo bastante real para que quien participa reconozca el valor inmediato. Eso es lo que le permite, después, delegar una tarea parecida sin depender de nadie.
 
 ## ¿Cómo?
 

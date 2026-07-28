@@ -1,6 +1,6 @@
 # Seminario de Agentes
 
-Itinerario de 6 sesiones para introducir el uso de agentes de IA en terminal a profesorado sin formación informática, anclado en tareas administrativas y docentes reales (no ejercicios de programación).
+Itinerario de 6 sesiones para introducir el uso de agentes de IA en terminal a personas sin formación informática, anclado en tareas reales del propio trabajo de quien participa (no ejercicios de programación).
 
 ## Contenido
 
