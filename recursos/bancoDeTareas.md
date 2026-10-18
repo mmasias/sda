@@ -57,7 +57,7 @@ Tareas de práctica para el seminario, ordenadas por sesión. Todas trabajan sob
 
 - **Petición:** "Guarda un punto de control. Después, convierte apuntes/tema3-ecosistemas.txt en un archivo .md con títulos, listas y negritas para los términos clave, sin cambiar el contenido."
 - **Qué revisar:** pedir "muéstrame qué cambió desde el último punto de control". El texto debe ser el mismo; solo cambian títulos, listas y marcas de formato.
-- **Fallo típico:** el agente "mejora" el contenido (añade o reescribe frases) aunque se le pidió no cambiarlo. Las diferencias lo dejan a la vista, y es justo lo que se quiere enseñar.
+- **Fallo típico:** el agente "mejora" el contenido (añade o reescribe frases) aunque se le pidió no cambiarlo. Las diferencias lo dejan a la vista: es justo lo que se quiere enseñar.
 
 ### T05. Corregir ortografía y revisar los cambios
 

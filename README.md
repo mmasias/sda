@@ -4,7 +4,7 @@ Itinerario de 6 sesiones para introducir el uso de agentes de IA en terminal a p
 
 ## Por qué en terminal
 
-Existen agentes con interfaz gráfica que esconden la terminal. Se renuncia a ellos deliberadamente: el esfuerzo inicial de usar la terminal es lo que da independencia. Quien participa ve y aprueba cada acción del agente, sin una interfaz que decida qué mostrar; lo aprendido se transfiere a cualquier otro agente de terminal, no queda atado a un producto. La fricción de la terminal es de percepción, no técnica, y la sesión 1 está diseñada para neutralizarla.
+Existen agentes con interfaz gráfica que esconden la terminal. Se renuncia a ellos deliberadamente: el esfuerzo inicial de usar la terminal es lo que da independencia. Quien participa ve y aprueba cada acción del agente, sin una interfaz que decida qué mostrar; lo aprendido se transfiere a cualquier otro agente de terminal, no queda atado a un producto. La fricción de la terminal es de percepción, no técnica: la sesión 1 está diseñada para neutralizarla.
 
 ## Formato de trabajo: Markdown
 
