@@ -27,7 +27,7 @@ Un agente, en un sentido de trabajo, es un programa que entiende una tarea descr
 
 Desde esta primera sesión rigen dos reglas permanentes, no exclusivas de hoy:
 
-1. **Se trabaja siempre sobre una copia**, nunca sobre el archivo original, hasta que la sesión 5 (control de versiones) aporte un mecanismo real de deshacer. Delegar una tarea por primera vez no debe depender de arriesgar el único ejemplar de un archivo.
+1. **Se trabaja siempre sobre una copia**, nunca sobre el archivo original, hasta que la sesión 2 (puntos de control) aporte un mecanismo real de deshacer. Delegar una tarea por primera vez no debe depender de arriesgar el único ejemplar de un archivo.
 2. **Antes de delegar cualquier tarea sobre un archivo, se comprueba si contiene datos personales de terceros** (nombres, identificadores, cualquier dato que permita reconocer a una persona). Si los contiene, se trabaja sobre una versión anonimizada o con datos de prueba. Esta regla se establece aquí, no en el cierre del curso, porque la primera tarea de la sesión 1 ya puede tocar archivos con datos reales de terceros.
 
 ## ¿Para qué?

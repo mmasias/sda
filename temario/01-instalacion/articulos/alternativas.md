@@ -8,7 +8,7 @@ El público no es informático: cada paso adicional de instalación o configurac
 
 1. **Costo cero sin tarjeta de crédito.** Pedir una tarjeta, aunque no se cobre, frena a buena parte de quien participa.
 2. **Inicio de sesión con una cuenta que ya se tiene** (Google), sin claves de API ni paneles de configuración.
-3. **Instalación de una sola línea** en Windows 11, sin dependencias previas (Node.js, Python, Git).
+3. **Instalación de una sola línea** en Windows 11, sin dependencias previas (Node.js, Python).
 4. **Cuota suficiente** para las 6 sesiones y la práctica entre sesiones, sin que se agote a mitad de una tarea.
 5. **Condiciones estables y publicadas.** Una cuota que no se conoce no se puede planificar.
 

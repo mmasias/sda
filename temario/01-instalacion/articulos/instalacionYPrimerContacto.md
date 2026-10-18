@@ -10,7 +10,12 @@ Requiere haber resuelto antes la [preparación previa](preparacionPrevia.md). La
    irm 'https://cli.kiro.dev/install.ps1' | iex
    ```
 3. Esperar a que aparezca `Installed successfully`. No hace falta entender el comando: descarga e instala Kiro CLI. Si Windows pide permiso para que la aplicación haga cambios en el equipo, aceptar.
-4. **Cerrar la terminal y abrir una nueva.** La terminal en la que se instaló no reconoce todavía el comando `kiro-cli`; las que se abran a partir de ahora, sí. Es el tropiezo más frecuente de toda la instalación.
+4. En la misma terminal, instalar también Git, que el agente usará a partir de la sesión 2 para guardar puntos de control:
+   ```
+   winget install --id Git.Git -e --source winget
+   ```
+   Si pregunta si se aceptan los términos del origen, responder `Y`. Si Windows pide permiso para hacer cambios en el equipo, aceptar.
+5. **Cerrar la terminal y abrir una nueva.** La terminal en la que se instaló no reconoce todavía los comandos `kiro-cli` ni `git`; las que se abran a partir de ahora, sí. Es el tropiezo más frecuente de toda la instalación.
 
 Si aparece `Installation failed`, casi siempre se debe a falta de permisos de administrador (equipos gestionados por la institución): pedir la instalación a soporte.
 
@@ -36,8 +41,8 @@ El plan gratuito da 50 créditos al mes. Con el modelo por defecto se agotan en 
 1. En el Explorador de archivos, entrar en la carpeta **copia** preparada de antemano.
 2. Clic derecho sobre un espacio vacío de la carpeta y elegir **Abrir en Terminal**. Windows 11 abre Windows Terminal ya situado en esa carpeta: no hace falta moverse entre carpetas con comandos.
 3. Ejecutar `kiro-cli` para arrancar el agente.
-4. Describir la tarea en una frase, en lenguaje natural y en español (por ejemplo: "organiza estas facturas en subcarpetas por mes, a partir del nombre de archivo").
-5. Antes de crear, mover o modificar archivos, el agente **pide permiso** y muestra qué va a hacer. Leerlo y responder `y` (sí) o `n` (no). La opción `t` (confiar en esa acción para el resto de la sesión) no se usa todavía: otorgar confianza de forma gradual es el tema de la sesión 3. Si no se reconocen las opciones, pulsar Tab para verlas.
+4. Describir la tarea en una frase, en lenguaje natural y en español (por ejemplo: "organiza estas facturas en subcarpetas por mes, a partir del nombre de archivo"). Si la tarea produce un documento (un resumen, un listado, un informe), pedirlo en Markdown: "déjalo en un archivo `.md`".
+5. Antes de crear, mover o modificar archivos, el agente **pide permiso** y muestra qué va a hacer. Leerlo y responder `y` (sí) o `n` (no). La opción `t` (confiar en esa acción para el resto de la sesión) no se usa todavía: otorgar confianza de forma gradual es el tema de la sesión 4. Si no se reconocen las opciones, pulsar Tab para verlas.
 6. Revisar en el propio Explorador el resultado antes de darlo por bueno. Esta revisión, no la ejecución del comando, es el punto central de la sesión.
 7. Consultar `/usage` y comparar con la cifra anotada.
 8. Salir con `/quit`.
