@@ -1,0 +1,22 @@
+TEMA 3. LOS ECOSISTEMAS
+
+Que es un ecosistema
+Un ecosistema es el conjunto formado por los seres vivos que habitan en un lugar y por el medio fisico en el que viven, junto con las relaciones que se establecen entre ellos. Los seres vivos forman la biocenosis y el medio fisico forma el biotopo.
+
+Componentes
+Biotopo: el suelo, el agua, el aire, la temperatura, la luz.
+Biocenosis: plantas, animales, hongos y microorganismos.
+Las relaciones pueden ser entre seres de la misma especie (intraespecificas) o de especies distintas (interespecificas).
+
+Cadenas alimentarias
+Los productores fabrican su propio alimento a partir de la luz del sol. Los consumidores primarios se alimentan de los productores, los consumidores secundarios se alimentan de los primarios. Los descomponedores transforman la materia organica muerta en materia inorganica que vuelve a ser aprobechada por los productores.
+Ejemplo: hierba -> conejo -> zorro.
+
+Tipos de ecosistemas
+Terrestres: bosques, praderas, desiertos.
+Acuaticos: de agua dulce (rios, lagos) y de agua salada (mares, oceanos).
+
+Actividades
+1. Define biotopo y biocenosis con tus palabras.
+2. Escribe una cadena alimentaria de un ecosistema acuatico.
+3. Explica que pasaria si desaparecieran los descomponedores.

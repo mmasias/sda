@@ -23,6 +23,11 @@ Cadencia semanal, 6 semanas. Instalación resuelta antes de la sesión 1 mediant
 
 El control de versiones va en la sesión 2 porque es lo que permite dejar de trabajar sobre copias: hasta que existe un mecanismo real de deshacer, nadie trabaja sobre sus archivos de verdad. Lo maneja el agente; quien participa solo aprende a pedir "guarda un punto de control", "qué cambió desde el último punto" y "vuelve al último punto". Todo es local: publicar en GitHub queda como opcional en la sesión 6.
 
+## Recursos
+
+- [Banco de tareas](recursos/bancoDeTareas.md): tareas de práctica por sesión, con qué revisar y fallos típicos.
+- [Carpeta de ejemplo](recursos/carpetaEjemplo/LEEME.md): material ficticio, sin datos de personas reales, sobre el que se hacen las prácticas.
+
 ## Estado
 
 En diseño. El itinerario detallado sesión por sesión está en discusión; el contenido de cada sesión se desarrollará a continuación.
