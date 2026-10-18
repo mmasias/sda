@@ -40,6 +40,10 @@ La tarea elegida para la práctica debe ser lo bastante simple para completarse 
 
 Herramienta: **Kiro CLI**. Entorno: **Windows 11**, shell **PowerShell** (dentro de Windows Terminal). Kiro CLI no soporta instalarse desde Command Prompt y en Windows usa PowerShell por defecto para ejecutar comandos: no hay margen real para elegir cmd aquí.
 
+Kiro se elige por fricción mínima: gratis sin tarjeta, login con la cuenta de Google, instalación de una línea. Su plan gratuito (50 créditos al mes) solo alcanza si se fija un modelo de bajo costo, **Qwen3 Coder Next**, en el primer arranque; el procedimiento lo incluye como paso único.
+
+> [Alternativas](articulos/alternativas.md): comparativa de herramientas gratuitas, por qué Kiro y plan B si cambian sus condiciones.
+
 > [Preparación previa](articulos/preparacionPrevia.md): qué comprobar y dejar listo antes de la sesión, para no gastar tiempo de contacto en soporte técnico.
 
 > [Instalación y primer contacto: procedimiento](articulos/instalacionYPrimerContacto.md): instalación de Kiro CLI, creación de cuenta e inicio de sesión y la primera tarea delegada al agente.
